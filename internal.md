@@ -124,4 +124,3 @@ Shell obtained → escalate to root.
 - `hydra` — Jenkins brute force
 - `nc` — reverse shell listener
 - `ssh -L` — port forwarding
-- BeEF — browser exploitation (separate session)
