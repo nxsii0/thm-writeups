@@ -12,3 +12,5 @@ Personal notes and writeups from TryHackMe rooms.
 | [Relevant](./relevant.md) | Windows | Medium |
 | [Startup](./startup.md) | Linux | Easy |
 | [Internal](./internal.md) | Linux | Hard |
+| [0day](./0day.md) | Linux | Medium |
+
