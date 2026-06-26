@@ -13,4 +13,6 @@ Personal notes and writeups from TryHackMe rooms.
 | [Startup](./startup.md) | Linux | Easy |
 | [Internal](./internal.md) | Linux | Hard |
 | [0day](./0day.md) | Linux | Medium |
+| [sudoagent](./sudoagent.md) | Linux | easy |
+
 
